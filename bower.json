@@ -1,5 +1,5 @@
 {
-  "name": "nya-bootstrap-select",
+  "name": "mp-uk-nya-bootstrap-select",
   "version": "2.1.5",
   "main": [
     "dist/js/nya-bs-select.js",
